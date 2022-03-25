@@ -25,7 +25,7 @@ async def on_ready():
     print('Pippy started work')
 
 @bot.command()
-async def хелп(ctx):
+async def helpme(ctx):
     await ctx.send(
         'Hi friend, my name is Pippy. I am bot for fun\nCommands: \n!helpme , !askme')
     
