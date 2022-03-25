@@ -15,7 +15,7 @@ reply_variations = [
     ]
 
 ban_words = [
-    'fuck',
+    'f@ck',
     'i hate you',
     'stupid'
     ]
